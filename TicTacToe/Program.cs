@@ -99,7 +99,7 @@ namespace TicTacToe
                         break;
                 }
                 // Play again prompt
-                Console.WriteLine("\n Would you to play again? (Y/N)");
+                Console.WriteLine("\n Would you like to play again? (Y/N)");
                 char playAgainRespone = Console.ReadLine().Trim().ToUpper()[0];
                 if (playAgainRespone == 'Y')
                     playAgain = true;
