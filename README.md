@@ -1,5 +1,5 @@
 # TicTacToe Console Application
-![Console_TicTacToe](https://user-images.githubusercontent.com/25090977/210666581-1fac69a2-cb86-44cf-887f-ce423f096c32.png)
+![Console_TicTacToe](https://user-images.githubusercontent.com/25090977/210668474-e35471f9-ab35-438f-8c20-c5d07547071c.png)
 
 ## Description
 This is a windows console application that allows you to play TicTacToe against an imperfect AI opponent.
