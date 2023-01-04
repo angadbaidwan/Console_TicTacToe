@@ -1,0 +1,34 @@
+TicTacToe Console Application
+Functional Requirements Specification
+
+FUNCTIONAL REQUIREMENTS
+
+ask user to pick a symbol
+print tictactoe grid on screen with labeled rows (alphabetical) and columns (numerical)
+prompt user for coordinate text input for where they want to play
+play as the opposite symbol in a random open space on the board
+print the updated game board
+prompt user for coordinate text input for next move
+repeat pompt, play, and print commands until someone wins or the game board is full
+print victory or defeat text
+ask user to play again or exit
+
+DATA
+
+Gameboard
+userSymbol - must be 'o' or 'x'
+cpuSymbol - must be 'o' or 'x'
+
+Coordinate
+x coordinate - range a-c
+y coordinate - range 1-3
+
+EXCEPTION SCENARIOS
+
+invalid user input
+- print appropriate error message, repeat prompt
+
+
+NON-FUNCTIONAL REQUIREMENTS
+
+n/a
